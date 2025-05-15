@@ -7,11 +7,11 @@ setup(
     name="automata-theory-tools",
     version="0.1.0",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="naser.gahen71@yahoo.com",
     description="A package for automata theory tools like DFA minimization and CFG to CNF conversion",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/automata-theory-tools",
+    url="https://github.com/Khaledshahin321/automata-theory-tools",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
