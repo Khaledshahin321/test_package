@@ -11,7 +11,7 @@ setup(
     description="A package for automata theory tools like DFA minimization and CFG to CNF conversion",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Khaledshahin321/automata-theory-tools",
+    url="https://github.com/Khaledshahin321/test_package",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
